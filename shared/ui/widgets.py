@@ -128,7 +128,6 @@ def load_custom_fonts() -> None:
     """Load all .ttf/.otf from _CUSTOM_FONTS_DIR into QFontDatabase. Call once at startup."""
     from PyQt6.QtGui import QFontDatabase
     from PyQt6.QtCore import QSettings
-    _CUSTOM_FONTS_DIR.mkdir(parents=True, exist_ok=True)
     for fname in QSettings("todo_app", "todo_mvp").value("custom_font_files", [], type=list):
         p = _CUSTOM_FONTS_DIR / fname
         if p.exists():

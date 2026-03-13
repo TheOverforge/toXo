@@ -1,4 +1,5 @@
 [Setup]
+AppId={{A3F2B1C4-7E89-4D2A-B6F3-1C8E9D0A2B5F}
 AppName=toXo
 AppVersion=1.0
 AppPublisher=TheOverforge
