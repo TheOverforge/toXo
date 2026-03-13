@@ -103,7 +103,7 @@ toXo/
 ### Install & Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/toxo.git
+git clone https://github.com/TheOverforge/toXo.git
 cd toxo
 python -m venv .venv
 .venv\Scripts\activate
