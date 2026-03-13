@@ -67,9 +67,9 @@ The database is stored locally in `%APPDATA%/todo_app/tasks.sqlite`. No account,
 
 ![Finance](docs/screenshots/finance.png)
 
-**Glass theme** — frosted transparency with layered blur effect
+**Dark theme** — clean dark UI with iOS-style styling
 
-![Glass theme](docs/screenshots/dark.png)
+![Dark theme](docs/screenshots/dark.png)
 
 ---
 
