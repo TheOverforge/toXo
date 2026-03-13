@@ -26,7 +26,6 @@ docs/Методичка-КР-2025-compressed.pdf
 
 # Coursework (personal, not part of the app)
 docs/КР.*
-docs/screenshots/
 
 # LaTeX source (keep only compiled PDF)
 docs/*.tex

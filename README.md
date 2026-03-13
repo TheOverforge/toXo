@@ -51,7 +51,25 @@ The database is stored locally in `%APPDATA%/todo_app/tasks.sqlite`. No account,
 
 ## Screenshots
 
-> Coming soon
+**Tasks** — task list with categories, priorities, and tags
+
+![Tasks](docs/screenshots/tasks.png)
+
+**Task editor** — edit title, description, subtasks, deadline, and reminders
+
+![Editor](docs/screenshots/editor.png)
+
+**Analytics** — completion charts, category breakdown, productivity heatmap
+
+![Analytics](docs/screenshots/analytics.png)
+
+**Finance** — accounts, transactions, budgets, and savings goals
+
+![Finance](docs/screenshots/finance.png)
+
+**Glass theme** — frosted transparency with layered blur effect
+
+![Glass theme](docs/screenshots/dark.png)
 
 ---
 
