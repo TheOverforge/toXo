@@ -51,7 +51,7 @@ The database is stored locally in `%APPDATA%/todo_app/tasks.sqlite`. No account,
 
 ## Screenshots
 
-**Tasks** — task list with categories, priorities, and tags
+**Tasks** — task list with categories, priorities, and tags *(Glass theme)*
 
 ![Tasks](docs/screenshots/tasks.png)
 
@@ -70,6 +70,10 @@ The database is stored locally in `%APPDATA%/todo_app/tasks.sqlite`. No account,
 **Dark theme** — clean dark UI with iOS-style styling
 
 ![Dark theme](docs/screenshots/dark.png)
+
+**Light theme** — minimal light UI
+
+![Light theme](docs/screenshots/light.png)
 
 ---
 
