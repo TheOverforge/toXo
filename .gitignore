@@ -1,0 +1,35 @@
+__pycache__/
+*.pyc
+*.sqlite
+*.sqlite3
+*.db
+.venv/
+.env
+.vscode/
+dist/
+build/
+installer_output/
+*.spec
+.claude/
+
+# LaTeX build artifacts
+docs/*.aux
+docs/*.log
+docs/*.out
+docs/*.synctex.gz
+docs/*.toc
+docs/*.fdb_latexmk
+docs/*.fls
+
+# Large reference PDFs (not authored)
+docs/Методичка-КР-2025-compressed.pdf
+
+# Coursework (personal, not part of the app)
+docs/КР.*
+docs/screenshots/
+
+# LaTeX source (keep only compiled PDF)
+docs/*.tex
+
+# Custom fonts (installed locally, not redistributable)
+shared/assets/fonts/
