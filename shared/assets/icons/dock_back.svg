@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="none">
+  <!-- Arrow pointing left (dock back) -->
+  <path d="M11 8H4" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M7 5l-3 3 3 3" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Vertical bar on right side -->
+  <line x1="13.5" y1="4" x2="13.5" y2="12" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
